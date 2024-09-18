@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "dr"
 version = "0.1.0"
-description = "base robot"
-authors = ["Your Name <you@example.com>"]
+description = "Teste DRC"
+authors = ["Vitor Augusto <vitoraugusto_@live.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
