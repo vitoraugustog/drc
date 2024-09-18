@@ -1,0 +1,11 @@
+login:
+  audio: com.android.permissioncontroller:id/permission_deny_button
+  phone: com.android.permissioncontroller:id/permission_deny_button
+  entrar: //android.widget.TextView[@text="Entrar"]
+  usuario: //android.widget.EditText[@text="Preencha aqui"]
+  gouser: //android.widget.TextView[@text="Continuar"]
+  senha:  //android.widget.EditText[@text="Preencha aqui"]
+  home: //android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]
+  location: com.android.permissioncontroller:id/permission_deny_button
+  popup: //android.widget.TextView[@text="Fechar"]
+  denyagain:  com.android.permissioncontroller:id/permission_deny_and_dont_ask_again_button

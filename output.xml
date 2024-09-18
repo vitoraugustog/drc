@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.1 (Python 3.12.6 on win32)" generated="2024-09-18T12:34:25.184488" rpa="false" schemaversion="5">
+<suite id="s1" name="Cadastro" source="c:\Workspace\drc\test\cadastro.robot">
+<test id="s1-t1" line="9">
+<status status="FAIL" start="2024-09-18T12:34:25.411184" elapsed="0.000997">Test name cannot be empty.</status>
+</test>
+<status status="FAIL" start="2024-09-18T12:34:25.199418" elapsed="0.213762"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Cadastro">Cadastro</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

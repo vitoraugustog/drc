@@ -1,0 +1,14 @@
+cad:
+  celular: //android.widget.EditText[@text="(99) 999999999"]
+  proxcad: //android.widget.TextView[@text="Próximo"]
+  cpf: //android.widget.EditText[@text="CPF"]
+  nome: //android.widget.EditText[@text="Nome"]
+  dia: //android.widget.EditText[@text="DD"]
+  mes: //android.widget.EditText[@text="MM"]
+  ano: //android.widget.EditText[@text="AAAA"]
+  sexo: //android.widget.TextView[@text="Masculino"]
+  senha: //android.widget.EditText[@text="Senha"]
+  cep: //android.widget.EditText
+  numero: //android.widget.EditText[@text="49"]
+  complemento: //android.widget.EditText[@text="Casa 2"]
+  finalcad: //android.widget.TextView[@text="Cadastrar"]
